@@ -1,4 +1,4 @@
-# Crud Operations
+# crud-operations
 
 ## Description
 The Crud Operations project is a web application that focuses on performing basic Create, Update, and Delete (CRUD) operations on a database.
